@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DwightSchrute49/DwightLeets/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DwightSchrute49/DwightLeets/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
