@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0001-two-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0001-two-sum) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
