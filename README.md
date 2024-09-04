@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0119-pascals-triangle-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0119-pascals-triangle-ii) |
 ## Sorting
 |  |
 | ------- |
