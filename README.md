@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DwightSchrute49/DwightLeets/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0047-permutations-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -71,9 +72,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
 ## Sorting
 |  |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
