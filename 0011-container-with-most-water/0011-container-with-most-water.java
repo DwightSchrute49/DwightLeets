@@ -19,11 +19,5 @@ public class Solution {  // Changed from ContainerWithMostWater to Solution
         
         return maxArea;
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[] height = {1,8,6,2,5,4,8,3,7};
-        System.out.println("Maximum area: " + solution.maxArea(height)); // Output should be 49
-    }
 }
 
