@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
