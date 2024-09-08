@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DwightSchrute49/DwightLeets/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/DwightSchrute49/DwightLeets/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DwightSchrute49/DwightLeets/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DwightSchrute49/DwightLeets/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DwightSchrute49/DwightLeets/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DwightSchrute49/DwightLeets/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DwightSchrute49/DwightLeets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
