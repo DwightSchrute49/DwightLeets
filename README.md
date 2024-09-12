@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
@@ -223,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0191-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
 | ------- |
