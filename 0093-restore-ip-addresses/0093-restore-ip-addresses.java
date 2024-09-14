@@ -16,13 +16,12 @@ void helper(List<String> acc, String s, int idx, int[] path,  int segment){
     
     for(int len = 1; len <= 3 && idx + len <= s.length() ; len ++){
         int val = Integer.parseInt(s.substring(idx, idx + len));
-        // range check, no leading 0.
         if(val > 255 || len >= 2  && s.charAt(idx) == '0') 
             break; 
             
         path[segment] = val;
         helper(acc, s, idx + len, path, segment + 1);
-        path[segment] = -1; // for debug. 
+        path[segment] = -1; 
     }
 }
 }
