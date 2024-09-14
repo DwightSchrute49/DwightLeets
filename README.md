@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/DwightSchrute49/DwightLeets/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DwightSchrute49/DwightLeets/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0344-reverse-string) |
 ## Dynamic Programming
