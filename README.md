@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DwightSchrute49/DwightLeets/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DwightSchrute49/DwightLeets/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DwightSchrute49/DwightLeets/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DwightSchrute49/DwightLeets/tree/master/0069-sqrtx) |
 ## Divide and Conquer
