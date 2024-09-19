@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0263-ugly-number) |
+| [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
