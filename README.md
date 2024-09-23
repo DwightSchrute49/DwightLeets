@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DwightSchrute49/DwightLeets/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0344-reverse-string) |
+| [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
