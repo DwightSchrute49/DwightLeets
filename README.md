@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
