@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/DwightSchrute49/DwightLeets/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DwightSchrute49/DwightLeets/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DwightSchrute49/DwightLeets/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DwightSchrute49/DwightLeets/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0088-merge-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DwightSchrute49/DwightLeets/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
