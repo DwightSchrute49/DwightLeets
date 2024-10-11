@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DwightSchrute49/DwightLeets/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 ## String
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/DwightSchrute49/DwightLeets/tree/master/0310-minimum-height-trees) |
 ## Binary Search Tree
 |  |
