@@ -1,24 +1,24 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int count5 = 0;
-        int count10 = 0;
+        int c5=0;
+        int c10=0;
         for(int b : bills){
             if(b == 5){
-                count5++;
+                c5++;
             }else if(b == 10){
-                if(count5 == 0){
+                if(c5 == 0){
                     return false;
                 }else{
-                    count5--;
-                    count10++;
+                    c5--;
+                    c10++;
                 }
             }else{
-                if(count10 > 0 && count5 > 0){
-                    count5--;
-                    count10--;
+                if(c10>0 && c5>0){
+                    c5--;
+                    c10--;
                     continue;
-                }else if(count5 >= 3){
-                    count5 -= 3;
+                }else if(c5 >= 3){
+                    c5-= 3;
                     continue;
                 }else{
                     return false;
