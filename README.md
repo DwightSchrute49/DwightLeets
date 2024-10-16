@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/DwightSchrute49/DwightLeets/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
+| [0890-lemonade-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/DwightSchrute49/DwightLeets/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
