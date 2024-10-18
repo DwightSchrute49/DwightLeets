@@ -23,31 +23,3 @@ class Solution {
         return Integer.parseInt(new String(digits));
     }
 }
-               /* char temp=digits[i];
-                digits[i]=digits[i+1];
-                digits[i+1]=temp;
-                break;
-            }
-        }
-        return Integer.parseInt(new String(digits));
-    }
-}
-            /*arr[i]=str.charAt(i)-'0';
-        }
-        for(int i=0;i<arr.length;i++){
-            for(int j=i+1;j<arr.length;j++){
-            if(arr[j]>arr[i]){
-                int temp=arr[i];
-                arr[i]=arr[j];
-                arr[j]=temp;
-            }
-        }
-        }
-       // Arrays.sort(arr);
-        int sorted=0;
-        for(int i=0;i<arr.length;i++){
-            sorted=sorted*10+arr[i];
-        }
-        return sorted;
-    }
-}*/
