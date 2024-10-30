@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/DwightSchrute49/DwightLeets/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
