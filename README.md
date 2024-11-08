@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/DwightSchrute49/DwightLeets/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/1940-maximum-xor-for-each-query) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/3291-find-if-array-can-be-sorted) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DwightSchrute49/DwightLeets/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/3291-find-if-array-can-be-sorted) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/DwightSchrute49/DwightLeets/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/1940-maximum-xor-for-each-query) |
 ## Enumeration
 |  |
 | ------- |
