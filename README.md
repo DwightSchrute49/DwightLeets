@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/DwightSchrute49/DwightLeets/tree/master/1833-find-the-highest-altitude) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DwightSchrute49/DwightLeets/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0344-reverse-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/DwightSchrute49/DwightLeets/tree/master/3195-separate-black-and-white-balls) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Memoization
 |  |
 | ------- |
