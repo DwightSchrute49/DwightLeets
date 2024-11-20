@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 | [2580-circular-sentence](https://github.com/DwightSchrute49/DwightLeets/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DwightSchrute49/DwightLeets/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/DwightSchrute49/DwightLeets/tree/master/3195-separate-black-and-white-balls) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/DwightSchrute49/DwightLeets/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String Matching
