@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
+| [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/DwightSchrute49/DwightLeets/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0890-lemonade-change) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DwightSchrute49/DwightLeets/tree/master/0074-search-a-2d-matrix) |
+| [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DwightSchrute49/DwightLeets/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/DwightSchrute49/DwightLeets/tree/master/1972-rotating-the-box) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/DwightSchrute49/DwightLeets/tree/master/0310-minimum-height-trees) |
+| [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 ## Binary Search Tree
 |  |
 | ------- |
