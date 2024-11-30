@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/DwightSchrute49/DwightLeets/tree/master/0310-minimum-height-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2201-valid-arrangement-of-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/DwightSchrute49/DwightLeets/tree/master/0310-minimum-height-trees) |
+| [2201-valid-arrangement-of-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DwightSchrute49/DwightLeets/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3189-find-champion-ii) |
@@ -536,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DwightSchrute49/DwightLeets/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
