@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DwightSchrute49/DwightLeets/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/DwightSchrute49/DwightLeets/tree/master/2716-prime-subtraction-operation) |
 ## Quickselect
 |  |
