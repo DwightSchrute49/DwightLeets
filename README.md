@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/DwightSchrute49/DwightLeets/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/DwightSchrute49/DwightLeets/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/DwightSchrute49/DwightLeets/tree/master/0670-maximum-swap) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -443,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DwightSchrute49/DwightLeets/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/2059-unique-length-3-palindromic-subsequences) |
