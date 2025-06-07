@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DwightSchrute49/DwightLeets/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/DwightSchrute49/DwightLeets/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/DwightSchrute49/DwightLeets/tree/master/0670-maximum-swap) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/DwightSchrute49/DwightLeets/tree/master/2716-prime-subtraction-operation) |
