@@ -616,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/DwightSchrute49/DwightLeets/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
