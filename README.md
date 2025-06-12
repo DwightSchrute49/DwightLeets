@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/DwightSchrute49/DwightLeets/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DwightSchrute49/DwightLeets/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/DwightSchrute49/DwightLeets/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
