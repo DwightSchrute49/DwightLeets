@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/DwightSchrute49/DwightLeets/tree/master/0197-rising-temperature) |
 | [0585-investments-in-2016](https://github.com/DwightSchrute49/DwightLeets/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/DwightSchrute49/DwightLeets/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/DwightSchrute49/DwightLeets/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/1179-game-play-analysis-i) |
 | [1827-invalid-tweets](https://github.com/DwightSchrute49/DwightLeets/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
