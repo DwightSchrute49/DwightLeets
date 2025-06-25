@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/DwightSchrute49/DwightLeets/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/DwightSchrute49/DwightLeets/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/DwightSchrute49/DwightLeets/tree/master/0626-exchange-seats) |
+| [0627-swap-salary](https://github.com/DwightSchrute49/DwightLeets/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/1179-game-play-analysis-i) |
 | [1827-invalid-tweets](https://github.com/DwightSchrute49/DwightLeets/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
