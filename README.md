@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/DwightSchrute49/DwightLeets/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DwightSchrute49/DwightLeets/tree/master/0290-word-pattern) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DwightSchrute49/DwightLeets/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/DwightSchrute49/DwightLeets/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DwightSchrute49/DwightLeets/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0345-reverse-vowels-of-a-string) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DwightSchrute49/DwightLeets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0628-maximum-product-of-three-numbers) |
