@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1302-delete-characters-to-make-fancy-string) |
