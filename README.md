@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/1635-number-of-good-pairs) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DwightSchrute49/DwightLeets/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1720-crawler-log-folder](https://github.com/DwightSchrute49/DwightLeets/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1755-defuse-the-bomb](https://github.com/DwightSchrute49/DwightLeets/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DwightSchrute49/DwightLeets/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DwightSchrute49/DwightLeets/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1720-crawler-log-folder](https://github.com/DwightSchrute49/DwightLeets/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1720-crawler-log-folder](https://github.com/DwightSchrute49/DwightLeets/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
