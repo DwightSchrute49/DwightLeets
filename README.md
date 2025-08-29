@@ -694,5 +694,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/1179-game-play-analysis-i) |
+| [1268-market-analysis-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/1268-market-analysis-i) |
 | [1827-invalid-tweets](https://github.com/DwightSchrute49/DwightLeets/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
