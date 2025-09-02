@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DwightSchrute49/DwightLeets/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DwightSchrute49/DwightLeets/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DwightSchrute49/DwightLeets/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DwightSchrute49/DwightLeets/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DwightSchrute49/DwightLeets/tree/master/0066-plus-one) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0065-valid-number) |
