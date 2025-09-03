@@ -15,7 +15,7 @@ class Solution {
 
                 if (!(ax <= bx && ay >= by)) continue;
 
-                boolean flag = true; // reset for each (i, j)
+                boolean flag = true; 
 
                 for (int k = 0; k < len; ++k) {
                     if (k == i || k == j) continue;
