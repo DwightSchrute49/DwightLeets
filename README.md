@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/DwightSchrute49/DwightLeets/tree/master/2716-prime-subtraction-operation) |
+| [2756-buy-two-chocolates](https://github.com/DwightSchrute49/DwightLeets/tree/master/2756-buy-two-chocolates) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DwightSchrute49/DwightLeets/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2756-buy-two-chocolates](https://github.com/DwightSchrute49/DwightLeets/tree/master/2756-buy-two-chocolates) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/3291-find-if-array-can-be-sorted) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/DwightSchrute49/DwightLeets/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/DwightSchrute49/DwightLeets/tree/master/2716-prime-subtraction-operation) |
+| [2756-buy-two-chocolates](https://github.com/DwightSchrute49/DwightLeets/tree/master/2756-buy-two-chocolates) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DwightSchrute49/DwightLeets/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/DwightSchrute49/DwightLeets/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
