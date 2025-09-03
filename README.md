@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DwightSchrute49/DwightLeets/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
+| [0482-license-key-formatting](https://github.com/DwightSchrute49/DwightLeets/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/DwightSchrute49/DwightLeets/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/DwightSchrute49/DwightLeets/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0521-longest-uncommon-subsequence-i) |
