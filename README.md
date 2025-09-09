@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/DwightSchrute49/DwightLeets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DwightSchrute49/DwightLeets/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DwightSchrute49/DwightLeets/tree/master/0367-valid-perfect-square) |
@@ -733,4 +734,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
