@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public String sortVowels(String s) {
         List<Character> vowels = new ArrayList<>();
