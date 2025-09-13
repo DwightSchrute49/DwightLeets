@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DwightSchrute49/DwightLeets/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DwightSchrute49/DwightLeets/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DwightSchrute49/DwightLeets/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
