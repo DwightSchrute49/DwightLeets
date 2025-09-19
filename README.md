@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3678-design-task-manager](https://github.com/DwightSchrute49/DwightLeets/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DwightSchrute49/DwightLeets/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DwightSchrute49/DwightLeets/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
+| [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DwightSchrute49/DwightLeets/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/DwightSchrute49/DwightLeets/tree/master/0859-design-circular-deque) |
 | [2429-design-a-food-rating-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DwightSchrute49/DwightLeets/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
