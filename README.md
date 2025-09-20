@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DwightSchrute49/DwightLeets/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/DwightSchrute49/DwightLeets/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/DwightSchrute49/DwightLeets/tree/master/0441-arranging-coins) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DwightSchrute49/DwightLeets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DwightSchrute49/DwightLeets/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DwightSchrute49/DwightLeets/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/DwightSchrute49/DwightLeets/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DwightSchrute49/DwightLeets/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
