@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1006-vowel-spellchecker](https://github.com/DwightSchrute49/DwightLeets/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DwightSchrute49/DwightLeets/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/DwightSchrute49/DwightLeets/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/DwightSchrute49/DwightLeets/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DwightSchrute49/DwightLeets/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DwightSchrute49/DwightLeets/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/DwightSchrute49/DwightLeets/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1304-longest-happy-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DwightSchrute49/DwightLeets/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/DwightSchrute49/DwightLeets/tree/master/1917-maximum-average-pass-ratio) |
