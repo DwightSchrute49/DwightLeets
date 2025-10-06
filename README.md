@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/DwightSchrute49/DwightLeets/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/DwightSchrute49/DwightLeets/tree/master/0859-design-circular-deque) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DwightSchrute49/DwightLeets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DwightSchrute49/DwightLeets/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/DwightSchrute49/DwightLeets/tree/master/1972-rotating-the-box) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/DwightSchrute49/DwightLeets/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DwightSchrute49/DwightLeets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [2201-valid-arrangement-of-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
 |  |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DwightSchrute49/DwightLeets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DwightSchrute49/DwightLeets/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -693,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/DwightSchrute49/DwightLeets/tree/master/1917-maximum-average-pass-ratio) |
@@ -839,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
