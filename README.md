@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DwightSchrute49/DwightLeets/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/DwightSchrute49/DwightLeets/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0093-restore-ip-addresses) |
+| [0401-binary-watch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0401-binary-watch) |
 ## Stack
 |  |
 | ------- |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DwightSchrute49/DwightLeets/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1071-binary-prefix-divisible-by-5) |
