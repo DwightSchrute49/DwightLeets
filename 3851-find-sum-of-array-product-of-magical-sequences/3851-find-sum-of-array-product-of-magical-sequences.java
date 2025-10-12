@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     static final int MOD = 1000000007;
     public int magicalSum(int m, int k, int[] nums) {
         int n = nums.length;
