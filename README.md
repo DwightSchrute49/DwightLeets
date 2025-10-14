@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DwightSchrute49/DwightLeets/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DwightSchrute49/DwightLeets/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DwightSchrute49/DwightLeets/tree/master/3827-implement-router) |
