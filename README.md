@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2023-design-movie-rental-system) |
 | [2089-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DwightSchrute49/DwightLeets/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2262-solving-questions-with-brainpower](https://github.com/DwightSchrute49/DwightLeets/tree/master/2262-solving-questions-with-brainpower) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/DwightSchrute49/DwightLeets/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DwightSchrute49/DwightLeets/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DwightSchrute49/DwightLeets/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2429-design-a-food-rating-system) |
 | [2580-circular-sentence](https://github.com/DwightSchrute49/DwightLeets/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
