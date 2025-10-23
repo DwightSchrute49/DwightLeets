@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DwightSchrute49/DwightLeets/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/DwightSchrute49/DwightLeets/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DwightSchrute49/DwightLeets/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/DwightSchrute49/DwightLeets/tree/master/2716-prime-subtraction-operation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -865,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Database
 |  |
