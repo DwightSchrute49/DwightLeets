@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DwightSchrute49/DwightLeets/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2023-design-movie-rental-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2429-design-a-food-rating-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/DwightSchrute49/DwightLeets/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DwightSchrute49/DwightLeets/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/DwightSchrute49/DwightLeets/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0401-binary-watch) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DwightSchrute49/DwightLeets/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DwightSchrute49/DwightLeets/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -837,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
