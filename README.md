@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/DwightSchrute49/DwightLeets/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/DwightSchrute49/DwightLeets/tree/master/3394-minimum-array-end) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
