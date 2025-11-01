@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DwightSchrute49/DwightLeets/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DwightSchrute49/DwightLeets/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DwightSchrute49/DwightLeets/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DwightSchrute49/DwightLeets/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DwightSchrute49/DwightLeets/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DwightSchrute49/DwightLeets/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/DwightSchrute49/DwightLeets/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DwightSchrute49/DwightLeets/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/DwightSchrute49/DwightLeets/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DwightSchrute49/DwightLeets/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
