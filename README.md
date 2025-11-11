@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DwightSchrute49/DwightLeets/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/DwightSchrute49/DwightLeets/tree/master/0500-keyboard-row) |
 | [0611-valid-triangle-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0628-maximum-product-of-three-numbers) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DwightSchrute49/DwightLeets/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/DwightSchrute49/DwightLeets/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0474-ones-and-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/DwightSchrute49/DwightLeets/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/DwightSchrute49/DwightLeets/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/DwightSchrute49/DwightLeets/tree/master/0520-detect-capital) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DwightSchrute49/DwightLeets/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DwightSchrute49/DwightLeets/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
