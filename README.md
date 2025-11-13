@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DwightSchrute49/DwightLeets/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/DwightSchrute49/DwightLeets/tree/master/3797-design-spreadsheet) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DwightSchrute49/DwightLeets/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DwightSchrute49/DwightLeets/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DwightSchrute49/DwightLeets/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DwightSchrute49/DwightLeets/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/DwightSchrute49/DwightLeets/tree/master/2756-buy-two-chocolates) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DwightSchrute49/DwightLeets/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/DwightSchrute49/DwightLeets/tree/master/3195-separate-black-and-white-balls) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DwightSchrute49/DwightLeets/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
