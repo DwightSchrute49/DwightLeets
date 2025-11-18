@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0643-maximum-average-subarray-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/DwightSchrute49/DwightLeets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
