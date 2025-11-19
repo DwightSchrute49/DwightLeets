@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/DwightSchrute49/DwightLeets/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/DwightSchrute49/DwightLeets/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/DwightSchrute49/DwightLeets/tree/master/0397-integer-replacement) |
 | [0474-ones-and-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DwightSchrute49/DwightLeets/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/DwightSchrute49/DwightLeets/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DwightSchrute49/DwightLeets/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/DwightSchrute49/DwightLeets/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/DwightSchrute49/DwightLeets/tree/master/0397-integer-replacement) |
 | [0611-valid-triangle-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/DwightSchrute49/DwightLeets/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0680-valid-palindrome-ii) |
