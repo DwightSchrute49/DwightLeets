@@ -1,6 +1,6 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
-        List<Integer> ans = new ArrayList<>();
+        HashSet<Integer> ans = new HashSet<>();
         for(int i : nums)
             ans.add(i);
 
