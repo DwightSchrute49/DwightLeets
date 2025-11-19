@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/DwightSchrute49/DwightLeets/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/DwightSchrute49/DwightLeets/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0165-compare-version-numbers) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/DwightSchrute49/DwightLeets/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0120-triangle) |
