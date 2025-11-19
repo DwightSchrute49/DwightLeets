@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DwightSchrute49/DwightLeets/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/DwightSchrute49/DwightLeets/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DwightSchrute49/DwightLeets/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DwightSchrute49/DwightLeets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DwightSchrute49/DwightLeets/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DwightSchrute49/DwightLeets/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DwightSchrute49/DwightLeets/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
