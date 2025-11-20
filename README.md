@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/DwightSchrute49/DwightLeets/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0179-largest-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DwightSchrute49/DwightLeets/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/DwightSchrute49/DwightLeets/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/0169-majority-element) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/DwightSchrute49/DwightLeets/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/DwightSchrute49/DwightLeets/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/DwightSchrute49/DwightLeets/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/DwightSchrute49/DwightLeets/tree/master/0168-excel-sheet-column-title) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DwightSchrute49/DwightLeets/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/DwightSchrute49/DwightLeets/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/DwightSchrute49/DwightLeets/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DwightSchrute49/DwightLeets/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/DwightSchrute49/DwightLeets/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/DwightSchrute49/DwightLeets/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
