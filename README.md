@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1006-vowel-spellchecker](https://github.com/DwightSchrute49/DwightLeets/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DwightSchrute49/DwightLeets/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DwightSchrute49/DwightLeets/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
