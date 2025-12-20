@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DwightSchrute49/DwightLeets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1470-shuffle-the-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DwightSchrute49/DwightLeets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1590-make-sum-divisible-by-p](https://github.com/DwightSchrute49/DwightLeets/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/DwightSchrute49/DwightLeets/tree/master/1612-avoid-flood-in-the-city) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DwightSchrute49/DwightLeets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2092-find-all-people-with-secret](https://github.com/DwightSchrute49/DwightLeets/tree/master/2092-find-all-people-with-secret) |
@@ -1130,4 +1133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
