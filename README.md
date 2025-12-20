@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0944-delete-columns-to-make-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/DwightSchrute49/DwightLeets/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/DwightSchrute49/DwightLeets/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/DwightSchrute49/DwightLeets/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DwightSchrute49/DwightLeets/tree/master/1264-maximum-number-of-words-you-can-type) |
