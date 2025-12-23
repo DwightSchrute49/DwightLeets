@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1441-build-an-array-with-stack-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1470-shuffle-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1524-string-matching-in-an-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DwightSchrute49/DwightLeets/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
+| [1441-build-an-array-with-stack-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/DwightSchrute49/DwightLeets/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1929-concatenation-of-array) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/DwightSchrute49/DwightLeets/tree/master/1720-crawler-log-folder) |
