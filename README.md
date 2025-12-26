@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/DwightSchrute49/DwightLeets/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DwightSchrute49/DwightLeets/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/DwightSchrute49/DwightLeets/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/DwightSchrute49/DwightLeets/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/DwightSchrute49/DwightLeets/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/DwightSchrute49/DwightLeets/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DwightSchrute49/DwightLeets/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/DwightSchrute49/DwightLeets/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
