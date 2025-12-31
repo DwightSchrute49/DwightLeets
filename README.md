@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/DwightSchrute49/DwightLeets/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/1940-maximum-xor-for-each-query) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/DwightSchrute49/DwightLeets/tree/master/1972-rotating-the-box) |
 | [2023-design-movie-rental-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2023-design-movie-rental-system) |
 | [2089-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/2089-maximum-matrix-sum) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DwightSchrute49/DwightLeets/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DwightSchrute49/DwightLeets/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/DwightSchrute49/DwightLeets/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/DwightSchrute49/DwightLeets/tree/master/1612-avoid-flood-in-the-city) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DwightSchrute49/DwightLeets/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DwightSchrute49/DwightLeets/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DwightSchrute49/DwightLeets/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/DwightSchrute49/DwightLeets/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/2201-valid-arrangement-of-pairs) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/DwightSchrute49/DwightLeets/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/DwightSchrute49/DwightLeets/tree/master/2092-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DwightSchrute49/DwightLeets/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1160,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/DwightSchrute49/DwightLeets/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DwightSchrute49/DwightLeets/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
