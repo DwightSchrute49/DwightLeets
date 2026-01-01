@@ -13,7 +13,5 @@ class Solution {
         newDigits[0] = 1;
         return newDigits;
     }
-        
-
  }
 
