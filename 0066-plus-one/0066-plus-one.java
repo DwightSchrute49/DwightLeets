@@ -9,7 +9,7 @@ class Solution {
             }
         }
         
-        int[] newDigits = new int[digits.length + 1];
+        int newDigits [] = new int[digits.length + 1];
         newDigits[0] = 1;
         return newDigits;
     }
