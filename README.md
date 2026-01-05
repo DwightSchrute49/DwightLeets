@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/DwightSchrute49/DwightLeets/tree/master/1940-maximum-xor-for-each-query) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/DwightSchrute49/DwightLeets/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2023-design-movie-rental-system) |
 | [2089-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/2089-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/DwightSchrute49/DwightLeets/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DwightSchrute49/DwightLeets/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DwightSchrute49/DwightLeets/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DwightSchrute49/DwightLeets/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/DwightSchrute49/DwightLeets/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/2089-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DwightSchrute49/DwightLeets/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DwightSchrute49/DwightLeets/tree/master/2618-maximize-the-minimum-powered-city) |
