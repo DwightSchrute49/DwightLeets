@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/DwightSchrute49/DwightLeets/tree/master/1006-vowel-spellchecker) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/DwightSchrute49/DwightLeets/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/DwightSchrute49/DwightLeets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0226-invert-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/DwightSchrute49/DwightLeets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DwightSchrute49/DwightLeets/tree/master/1970-last-day-where-you-can-still-cross) |
