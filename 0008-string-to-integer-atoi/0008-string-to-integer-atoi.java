@@ -4,16 +4,13 @@ class Solution {
         int len = s.length();
         long result = 0;
         int sign = 1;
-
         while( i < len  && s.charAt(i) == ' '){
             i++;
         }
-
         if( i < len && (s.charAt(i) == '+' || s.charAt(i) == '-')){
-            sign = (s.charAt(i) == '-') ? -1 : 1;
+            sign = (s.charAt(i) == '+') ? 1 : -1;
             i++;
         }
-
         while( i < len && Character.isDigit(s.charAt(i))) {
             result = result * 10 + (s.charAt(i) - '0');
 
@@ -26,6 +23,5 @@ class Solution {
             i++;
         }
         return (int) (sign * result);
-
     }
 }
