@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DwightSchrute49/DwightLeets/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DwightSchrute49/DwightLeets/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/DwightSchrute49/DwightLeets/tree/master/0397-integer-replacement) |
 | [0474-ones-and-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DwightSchrute49/DwightLeets/tree/master/1111-minimum-score-triangulation-of-polygon) |
