@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DwightSchrute49/DwightLeets/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/DwightSchrute49/DwightLeets/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DwightSchrute49/DwightLeets/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/DwightSchrute49/DwightLeets/tree/master/3583-count-special-triplets) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/DwightSchrute49/DwightLeets/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DwightSchrute49/DwightLeets/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DwightSchrute49/DwightLeets/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -1056,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2429-design-a-food-rating-system) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/DwightSchrute49/DwightLeets/tree/master/3678-design-task-manager) |
@@ -1103,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/DwightSchrute49/DwightLeets/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/DwightSchrute49/DwightLeets/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/DwightSchrute49/DwightLeets/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/DwightSchrute49/DwightLeets/tree/master/3863-power-grid-maintenance) |
@@ -1264,4 +1270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
