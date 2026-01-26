@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DwightSchrute49/DwightLeets/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DwightSchrute49/DwightLeets/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1200-minimum-absolute-difference](https://github.com/DwightSchrute49/DwightLeets/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DwightSchrute49/DwightLeets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DwightSchrute49/DwightLeets/tree/master/1266-minimum-time-visiting-all-points) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/DwightSchrute49/DwightLeets/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/DwightSchrute49/DwightLeets/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DwightSchrute49/DwightLeets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/1353-find-resultant-array-after-removing-anagrams) |
