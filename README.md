@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/DwightSchrute49/DwightLeets/tree/master/2756-buy-two-chocolates) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DwightSchrute49/DwightLeets/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DwightSchrute49/DwightLeets/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DwightSchrute49/DwightLeets/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DwightSchrute49/DwightLeets/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DwightSchrute49/DwightLeets/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/DwightSchrute49/DwightLeets/tree/master/3195-separate-black-and-white-balls) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DwightSchrute49/DwightLeets/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1280,4 +1283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
