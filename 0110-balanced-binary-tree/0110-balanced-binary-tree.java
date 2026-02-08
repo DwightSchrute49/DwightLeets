@@ -19,7 +19,7 @@ class Solution {
         return checkHeight(root) != -1;
     }
     
-    private int checkHeight(TreeNode node) {
+    int checkHeight(TreeNode node) {
         if (node == null) return 0;
         
         int leftHeight = checkHeight(node.left);
