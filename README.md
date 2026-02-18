@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1071-binary-prefix-divisible-by-5) |
