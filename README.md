@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0837-most-common-word) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0696-count-binary-substrings) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DwightSchrute49/DwightLeets/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DwightSchrute49/DwightLeets/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
