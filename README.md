@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DwightSchrute49/DwightLeets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
+| [0868-binary-gap](https://github.com/DwightSchrute49/DwightLeets/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/DwightSchrute49/DwightLeets/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
