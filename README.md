@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/DwightSchrute49/DwightLeets/tree/master/0861-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/DwightSchrute49/DwightLeets/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1929-concatenation-of-array) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1524-string-matching-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1524-string-matching-in-an-array) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DwightSchrute49/DwightLeets/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DwightSchrute49/DwightLeets/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DwightSchrute49/DwightLeets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DwightSchrute49/DwightLeets/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
