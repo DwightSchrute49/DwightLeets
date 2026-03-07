@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DwightSchrute49/DwightLeets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DwightSchrute49/DwightLeets/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/2128-reverse-prefix-of-word) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DwightSchrute49/DwightLeets/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DwightSchrute49/DwightLeets/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DwightSchrute49/DwightLeets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DwightSchrute49/DwightLeets/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DwightSchrute49/DwightLeets/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/DwightSchrute49/DwightLeets/tree/master/2262-solving-questions-with-brainpower) |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DwightSchrute49/DwightLeets/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DwightSchrute49/DwightLeets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/DwightSchrute49/DwightLeets/tree/master/1755-defuse-the-bomb) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DwightSchrute49/DwightLeets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DwightSchrute49/DwightLeets/tree/master/2618-maximize-the-minimum-powered-city) |
