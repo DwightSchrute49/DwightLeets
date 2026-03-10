@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DwightSchrute49/DwightLeets/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DwightSchrute49/DwightLeets/tree/master/0217-contains-duplicate) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DwightSchrute49/DwightLeets/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DwightSchrute49/DwightLeets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DwightSchrute49/DwightLeets/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/DwightSchrute49/DwightLeets/tree/master/0400-nth-digit) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DwightSchrute49/DwightLeets/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1209,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DwightSchrute49/DwightLeets/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DwightSchrute49/DwightLeets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
