@@ -5,10 +5,11 @@ class Solution {
             seen.add(n);
             n = getNext(n);
         }
-        return n == 1;
+        if (n == 1) {return true;} else return false;
     }
+
     
-    private int getNext(int number) {
+    int getNext(int number) {
         int totalSum = 0;
         while (number > 0) {
             int digit = number % 10;
