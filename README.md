@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1304-longest-happy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DwightSchrute49/DwightLeets/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1524-string-matching-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1524-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/DwightSchrute49/DwightLeets/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/DwightSchrute49/DwightLeets/tree/master/0401-binary-watch) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DwightSchrute49/DwightLeets/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
