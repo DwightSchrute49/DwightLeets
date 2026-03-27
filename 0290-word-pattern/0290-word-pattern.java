@@ -5,10 +5,8 @@ class Solution {
         int pl = pattern.length();
 
         if (sl != pl) return false;
-
         Map<Character, String> map1 = new HashMap<>();
         Map<String, Character> map2 = new HashMap<>();
-
         for (int i = 0; i < pl; i++) {
             char ch = pattern.charAt(i);
             String word = words[i];
@@ -20,7 +18,6 @@ class Solution {
             } else {
                 map1.put(ch, word);
             }
-
             if (map2.containsKey(word)) {
                 if (map2.get(word) != ch) {
                     return false;
@@ -29,7 +26,6 @@ class Solution {
                 map2.put(word, ch);
             }
         }
-
         return true;
     }
 }
