@@ -5,7 +5,7 @@ class Solution {
         if(len == 0) return ans;
         int st = nums[0];
         for(int i =1 ; i <=len; i++){
-            if( i == len || (nums[i] != nums[i-1] + 1) || i == len){
+            if( i == len || (nums[i] != nums[i-1] + 1) ){
                 if(st == nums[i-1]){
                     ans.add(String.valueOf(st));
                 }
