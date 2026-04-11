@@ -881,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DwightSchrute49/DwightLeets/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/DwightSchrute49/DwightLeets/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1189,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DwightSchrute49/DwightLeets/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DwightSchrute49/DwightLeets/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/DwightSchrute49/DwightLeets/tree/master/0859-design-circular-deque) |
