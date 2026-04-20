@@ -1,7 +1,7 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int len=nums.length;
-        k%=nums.length;
+        k%=len;
         ghoomar(nums,0,len-1);
         ghoomar(nums,0,k-1);
         ghoomar(nums,k,len-1);
