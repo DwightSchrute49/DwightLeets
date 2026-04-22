@@ -2,22 +2,24 @@ class Solution {
     public int romanToInt(String s) {
 
         int result = 0;
+        int prev = 0;
 
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = s.length() - 1; i >= 0; i--) {
 
             int curr = value(s.charAt(i));
 
-            if (i < s.length() - 1 && curr < value(s.charAt(i + 1))) {
+            if (curr < prev) {
                 result -= curr;
             } else {
                 result += curr;
             }
+
+            prev = curr;
         }
 
         return result;
     }
 
-    // helper function instead of HashMap
     private int value(char c) {
         switch (c) {
             case 'I': return 1;
