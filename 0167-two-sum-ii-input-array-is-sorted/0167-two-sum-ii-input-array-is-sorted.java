@@ -1,21 +1,20 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int left = 0; int right  = nums.length - 1;
-        int res [] = new int [2];
-        while (left < right){
-            int sum = nums[left] + nums [right];
-            if(sum == target){
-                res[1] = right + 1;
-                res[0] = left + 1;
-                return res;
-            }
-            else if(sum < target){
-                left++;
-            }
-            else {
-                right --;
+        int left = 0;
+        int right = nums.length - 1;
+
+        while (left < right) {
+            int sum = nums[left] + nums[right];
+
+            if (sum == target) {
+                return new int[]{left + 1, right + 1}; // 1-based index
+            } else if (sum < target) {
+                left++;  // need bigger sum
+            } else {
+                right--; // need smaller sum
             }
         }
-        return new int [1];
+
+        return new int[]{-1, -1}; // safe fallback
     }
 }
