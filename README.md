@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/DwightSchrute49/DwightLeets/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/DwightSchrute49/DwightLeets/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/DwightSchrute49/DwightLeets/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0093-restore-ip-addresses) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DwightSchrute49/DwightLeets/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DwightSchrute49/DwightLeets/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/DwightSchrute49/DwightLeets/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0144-binary-tree-preorder-traversal) |
