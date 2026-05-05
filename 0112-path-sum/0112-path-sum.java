@@ -17,7 +17,7 @@ class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root == null) return false;
 
-        if(root.left == root.right) return targetSum == root.val;
+        if(root.left == null && root.right == null) return targetSum == root.val;
 
         int remaining  = targetSum - root.val ;
 
