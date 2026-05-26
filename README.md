@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/DwightSchrute49/DwightLeets/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DwightSchrute49/DwightLeets/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/DwightSchrute49/DwightLeets/tree/master/0289-game-of-life) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DwightSchrute49/DwightLeets/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DwightSchrute49/DwightLeets/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DwightSchrute49/DwightLeets/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DwightSchrute49/DwightLeets/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DwightSchrute49/DwightLeets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DwightSchrute49/DwightLeets/tree/master/0089-gray-code) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DwightSchrute49/DwightLeets/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DwightSchrute49/DwightLeets/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/DwightSchrute49/DwightLeets/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DwightSchrute49/DwightLeets/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/DwightSchrute49/DwightLeets/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/DwightSchrute49/DwightLeets/tree/master/0072-edit-distance) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DwightSchrute49/DwightLeets/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/DwightSchrute49/DwightLeets/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/DwightSchrute49/DwightLeets/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0190-reverse-bits) |
