@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DwightSchrute49/DwightLeets/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/DwightSchrute49/DwightLeets/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/DwightSchrute49/DwightLeets/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DwightSchrute49/DwightLeets/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0407-trapping-rain-water-ii) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/DwightSchrute49/DwightLeets/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/DwightSchrute49/DwightLeets/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/DwightSchrute49/DwightLeets/tree/master/0392-is-subsequence) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/DwightSchrute49/DwightLeets/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/DwightSchrute49/DwightLeets/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/DwightSchrute49/DwightLeets/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DwightSchrute49/DwightLeets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
