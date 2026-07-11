@@ -1,17 +1,12 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 1) return 1;
-        
-        int first = 1;
-        int second = 1;
-        int ways = 0;
-        
-        for (int i = 2; i <= n; i++) {
-            ways = first + second;
-            first = second;
-            second = ways;
+        if (n <= 2) return n;
+        int p1 = 2; int p2 = 1;
+        for(int i = 3; i <= n; i++){
+            int curr = p1 + p2;
+            p2 = p1;
+            p1 = curr;
         }
-        
-        return ways;
+        return p1;
     }
 }
