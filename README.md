@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/DwightSchrute49/DwightLeets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DwightSchrute49/DwightLeets/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/DwightSchrute49/DwightLeets/tree/master/0759-set-intersection-size-at-least-two) |
 | [0787-sliding-puzzle](https://github.com/DwightSchrute49/DwightLeets/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/DwightSchrute49/DwightLeets/tree/master/0792-binary-search) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/DwightSchrute49/DwightLeets/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DwightSchrute49/DwightLeets/tree/master/1111-minimum-score-triangulation-of-polygon) |
