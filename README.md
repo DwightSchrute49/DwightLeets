@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-minimum-array-end](https://github.com/DwightSchrute49/DwightLeets/tree/master/3394-minimum-array-end) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DwightSchrute49/DwightLeets/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
