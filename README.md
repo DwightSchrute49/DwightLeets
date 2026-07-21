@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/DwightSchrute49/DwightLeets/tree/master/1018-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DwightSchrute49/DwightLeets/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/DwightSchrute49/DwightLeets/tree/master/1390-four-divisors) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/DwightSchrute49/DwightLeets/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/1025-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DwightSchrute49/DwightLeets/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/DwightSchrute49/DwightLeets/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/DwightSchrute49/DwightLeets/tree/master/1236-n-th-tribonacci-number) |
@@ -1393,12 +1395,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DwightSchrute49/DwightLeets/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/DwightSchrute49/DwightLeets/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
