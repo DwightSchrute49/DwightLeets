@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DwightSchrute49/DwightLeets/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DwightSchrute49/DwightLeets/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/DwightSchrute49/DwightLeets/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/DwightSchrute49/DwightLeets/tree/master/0500-keyboard-row) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/DwightSchrute49/DwightLeets/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DwightSchrute49/DwightLeets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DwightSchrute49/DwightLeets/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DwightSchrute49/DwightLeets/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/DwightSchrute49/DwightLeets/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3721-longest-balanced-subarray-ii) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DwightSchrute49/DwightLeets/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DwightSchrute49/DwightLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DwightSchrute49/DwightLeets/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DwightSchrute49/DwightLeets/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DwightSchrute49/DwightLeets/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DwightSchrute49/DwightLeets/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DwightSchrute49/DwightLeets/tree/master/0415-add-strings) |
@@ -1175,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DwightSchrute49/DwightLeets/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/DwightSchrute49/DwightLeets/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DwightSchrute49/DwightLeets/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DwightSchrute49/DwightLeets/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
