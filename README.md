@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DwightSchrute49/DwightLeets/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2756-buy-two-chocolates](https://github.com/DwightSchrute49/DwightLeets/tree/master/2756-buy-two-chocolates) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DwightSchrute49/DwightLeets/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DwightSchrute49/DwightLeets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DwightSchrute49/DwightLeets/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DwightSchrute49/DwightLeets/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DwightSchrute49/DwightLeets/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DwightSchrute49/DwightLeets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DwightSchrute49/DwightLeets/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DwightSchrute49/DwightLeets/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1205,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DwightSchrute49/DwightLeets/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DwightSchrute49/DwightLeets/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DwightSchrute49/DwightLeets/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DwightSchrute49/DwightLeets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DwightSchrute49/DwightLeets/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DwightSchrute49/DwightLeets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
